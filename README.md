@@ -21,7 +21,7 @@ I'm Rishi (@rbyt2), a student developer with a growing interest in full-stack de
 - **Python**
 - **Go**
 - **HTML & CSS**
-- **XML** (currently learning)
+- **C#** (currently learning)
 
 ### Frameworks & Libraries
 - **Node.js** - My go-to for backend development
