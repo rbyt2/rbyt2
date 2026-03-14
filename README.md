@@ -11,7 +11,7 @@ I'm Rishi (@rbyt2), a student developer with a growing interest in full-stack de
 - 🔭 Focused on web development and backend engineering
 - 🤖 Passionate about AI and machine learning applications
 - 🎸 When I'm not coding, you'll find me playing guitar or creating art
-- 🌱 Currently learning XML and refining my JavaScript skills
+- 🌱 Currently learning C++ and refining my JavaScript skills
 - 💡 Obsessed with that magical moment when code runs on a different device!
 
 ## 💻 Technical Skills
